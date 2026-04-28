@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 72" width="80" height="72">
+  <!-- Bento box icon in flat silhouette style matching the wine glass icon -->
+  <!-- Main box body -->
+  <rect x="8" y="20" width="64" height="40" rx="5" ry="5" fill="#E8A835"/>
+  <!-- Lid -->
+  <rect x="5" y="14" width="70" height="12" rx="4" ry="4" fill="#E8A835"/>
+  <!-- Divider vertical -->
+  <rect x="38" y="26" width="3" height="28" fill="white" opacity="0.95"/>
+  <!-- Divider horizontal (right side) -->
+  <rect x="41" y="38" width="25" height="3" fill="white" opacity="0.95"/>
+  <!-- Rice in left compartment -->
+  <ellipse cx="23" cy="38" rx="8" ry="5" fill="white" opacity="0.9"/>
+  <ellipse cx="23" cy="36" rx="8" ry="4" fill="#E8A835"/>
+  <!-- Circular food items in top-right -->
+  <circle cx="50" cy="32" r="3.5" fill="white" opacity="0.85"/>
+  <circle cx="58" cy="32" r="3.5" fill="white" opacity="0.85"/>
+  <!-- Small items in bottom-right -->
+  <circle cx="50" cy="48" r="3" fill="white" opacity="0.85"/>
+  <circle cx="58" cy="48" r="3" fill="white" opacity="0.85"/>
+  <!-- Band/strap -->
+  <rect x="3" y="30" width="74" height="5" rx="2" ry="2" fill="#D4952B" opacity="0.5"/>
+</svg>

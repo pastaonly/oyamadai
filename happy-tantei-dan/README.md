@@ -14,7 +14,6 @@
 | 🌐 公開サイト | ハッピー探偵団（ウェブメディア本体） | <https://happy.oyamadai.com/> |
 
 > **正本について**: 受付・制作・店舗・予算の最新状況は上記 Googleスプレッドシートを正とする。
-> 本リポジトリの `document/ハッピー探偵団_マネジメント.xlsx` は、フォーマットの原型／スナップショットとして保持する（助成金報告の証跡用）。
 
 ## リポジトリ内ドキュメント
 
@@ -23,5 +22,6 @@
 | [policy.md](policy.md) | 体制・広報方針メモ（委託体制、Instagram運用、勉強会、MEO対策など） |
 | [management.md](management.md) | 課題一覧・マイルストーン・活動記録 |
 | [document/management-system.md](document/management-system.md) | マネジメントシステム（受付管理・制作管理）の構成案 |
-| [document/ハッピー探偵団_マネジメント.xlsx](document/ハッピー探偵団_マネジメント.xlsx) | 管理シートの原型（Excel版スナップショット） |
+| [discussions/](discussions/) | 会議用の報告・検討資料（進捗報告など） |
+| [document/支払い実績/](document/支払い実績/) | デザイン会社への発注・支払いの証憑（助成金報告用） |
 | [activity-log-photos/](activity-log-photos/) | 活動記録の写真（助成金の年度末報告用） |
